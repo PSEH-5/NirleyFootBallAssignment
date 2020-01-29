@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("/v1/football-score/country")
+@RequestMapping("/v1/football-score/competition")
 public class FootballCompetitionController {
 
     @Autowired
